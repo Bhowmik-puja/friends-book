@@ -1,0 +1,37 @@
+.user {
+  display: flex;
+  border: 3px solid white;
+  margin: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #3b5998;
+}
+.image {
+  margin-right: 10px;
+  margin-left: 50px;
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+}
+.userInfo {
+  text-align: left;
+  width: 50%;
+  margin-left: 50px;
+  font-family: sans-serif;
+}
+.addBtn {
+  background-color: #3b5998;
+  color: white;
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.companyInfo {
+  width: 50%;
+  margin-left: 50px;
+  margin-top: 20px;
+}

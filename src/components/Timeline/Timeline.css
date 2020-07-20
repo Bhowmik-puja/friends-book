@@ -1,0 +1,25 @@
+.page-container {
+  display: flex;
+}
+.userContainer {
+  width: 70%;
+  margin-left: 100px;
+  margin-right: 20px;
+}
+.details {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.totalFriend {
+  border: 3px solid #3b5998;
+  border-radius: 10px;
+  width: 200px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.totalSalary {
+  border: 3px solid #3b5998;
+  border-radius: 10px;
+  width: 200px;
+  padding: 10px;
+}
